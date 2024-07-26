@@ -1,32 +1,32 @@
-<h1 align="center">Hi 👋, I'm Jun Cyric Shane Dela Torre</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Jun Cyric Shane Dela Torre</h1>
 <h3 align="center">An aspiring software engineer</h3>
+<br>
 
-- 🔭 I’m currently studying **BS Computer Science**
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 🌱 I’m currently learning **Typescript, ASP.NET, Microsoft Azure**
+### 👨🏻‍💻 &nbsp;About Me
 
-- 👯 I’m looking to collaborate on **test**
+👨‍💻 &nbsp;I’m currently studying BS Computer Science at Cebu Institute of Technology - University.\
+🌱 &nbsp;I’m currently learning Typescript, ASP.NET, Microsoft Azure.\
+💬 &nbsp;Ask me about anything.\
+⚡ &nbsp;Fun fact North Korea and Cuba are the only places you can't buy Coca-Cola.\
+🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
+🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
+✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 
-- 🤝 I’m looking for help with **test**
+<br>
 
-- 👨‍💻 All of my projects are available at [test](test)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>  
 
-- 📝 I regularly write articles on [test](test)
 
-- 💬 Ask me about **test**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
-- 📫 How to reach me **shanedelatorre@gmail.com**
+### Languages
 
-- 📄 Know about my experiences [test](test)
+---
 
-- ⚡ Fun fact **North Korea and Cuba are the only places you can't buy Coca-Cola.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jun-cyric-shane-dela-torre-0b1041268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jun-cyric-shane-dela-torre-0b1041268" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages:</h3>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 </a> 
@@ -52,8 +52,10 @@
 <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="40" height="40"/> 
 </a>
 
+### Frameworks/Libraries/Database
 
-<h3 align="left">Frameworks/Libraries/Database:</h3>
+---
+
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> 
@@ -90,8 +92,10 @@
 </a>
 </p>
 
+### Tools
 
-<h3 align="left">Tools:</h3>
+---
+
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="40" height="40"/> 
@@ -112,3 +116,16 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </a>
 </p>
+
+
+### Connect with me:
+
+---
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jun-cyric-shane-dela-torre-0b1041268/"><img alt="Linkedin" title="Shane Dela Torre Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ShaneDT1126"><img alt="Github" title="Shane Dela Torre Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.instagram.com/shanedelatorre13/"><img alt="Instagram" title="Shane Dela Torre Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="shanedelatorre2412@gmail.com"><img alt="Gmail" title="Shane Dela Torre Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ </p>
+
