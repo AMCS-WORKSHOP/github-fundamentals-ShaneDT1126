@@ -10,10 +10,7 @@
 🌱 &nbsp;I’m currently learning Typescript, ASP.NET, Microsoft Azure.\
 💬 &nbsp;Ask me about anything.\
 ⚡ &nbsp;Fun fact North Korea and Cuba are the only places you can't buy Coca-Cola.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+
 
 <br>
 
